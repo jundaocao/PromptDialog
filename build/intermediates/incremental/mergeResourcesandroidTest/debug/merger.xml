@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res"><file name="fynn_prompt_dialog_bg_normal" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_bg_normal.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_center_normal" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_center_normal.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_center_pressed" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_center_pressed.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_center_selector" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_center_selector.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_left_normal" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_left_normal.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_left_pressed" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_left_pressed.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_left_selector" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_left_selector.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_right_normal" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_right_normal.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_right_pressed" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_right_pressed.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_right_selector" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_right_selector.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_single_normal" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_single_normal.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_single_pressed" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_single_pressed.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_btn_single_selector" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_btn_single_selector.xml" qualifiers="" type="drawable"/><file name="fynn_prompt_dialog_title_bar_bg" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\fynn_prompt_dialog_title_bar_bg.xml" qualifiers="" type="drawable"/><file name="progress_bar" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable\progress_bar.xml" qualifiers="" type="drawable"/><file name="refreshing" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\drawable-hdpi\refreshing.png" qualifiers="hdpi" type="drawable"/><file name="fynn_prompt_dialog_normal" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\layout\fynn_prompt_dialog_normal.xml" qualifiers="" type="layout"/><file name="fynn_prompt_dialog_progress_normal" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\layout\fynn_prompt_dialog_progress_normal.xml" qualifiers="" type="layout"/><file name="fynn_prompt_dialog_progress_small" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\layout\fynn_prompt_dialog_progress_small.xml" qualifiers="" type="layout"/><file name="fynn_prompt_dialog_titlebar_color" path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\layout\fynn_prompt_dialog_titlebar_color.xml" qualifiers="" type="layout"/><file path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\values\values.xml" qualifiers=""><string name="app_name">PromptDialog</string><style name="myProgressBarStyleSmall">
+
+
+        　　
+        <item name="android:indeterminateDrawable">@drawable/progress_bar</item>
+
+
+        　　
+        <item name="android:minWidth">32dip</item>
+
+
+        　　
+        <item name="android:maxWidth">32dip</item>
+
+
+        　　
+        <item name="android:minHeight">32dip</item>
+
+
+        　　
+        <item name="android:maxHeight">32dip</item>
+    </style><style name="myProgressBarStyleLarge">
+
+
+        　　
+        <item name="android:indeterminateDrawable">@drawable/progress_bar</item>
+
+
+        　　
+        <item name="android:minWidth">64dip</item>
+
+
+        　　
+        <item name="android:maxWidth">64dip</item>
+
+
+        　　
+        <item name="android:minHeight">64dip</item>
+
+
+        　　
+        <item name="android:maxHeight">64dip</item>
+    </style><style name="PromptDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!-- 边框 -->
+        <item name="android:windowIsFloating">true</item><!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item><!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item><!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style></file><file path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\values-sw720dp-land\values-sw720dp-land.xml" qualifiers="sw720dp-land"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\values-v11\values-v11.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="D:\work\workspace\PromptDialog\build\intermediates\bundles\debug\res\values-v14\values-v14.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source></dataSet><dataSet config="main"><source path="D:\work\workspace\PromptDialog\src\androidTest\res"/><source path="D:\work\workspace\PromptDialog\build\generated\res\rs\androidTest\debug"/><source path="D:\work\workspace\PromptDialog\build\generated\res\resValues\androidTest\debug"/></dataSet><mergedItems/></merger>

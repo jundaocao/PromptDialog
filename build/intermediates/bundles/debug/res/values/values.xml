@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/work/workspace/PromptDialog/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">PromptDialog</string>
+    <!-- From: file:/D:/work/workspace/PromptDialog/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="PromptDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!-- 边框 -->
+        <item name="android:windowIsFloating">true</item><!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item><!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item><!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="myProgressBarStyleLarge">
+
+
+        　　
+        <item name="android:indeterminateDrawable">@drawable/progress_bar</item>
+
+
+        　　
+        <item name="android:minWidth">64dip</item>
+
+
+        　　
+        <item name="android:maxWidth">64dip</item>
+
+
+        　　
+        <item name="android:minHeight">64dip</item>
+
+
+        　　
+        <item name="android:maxHeight">64dip</item>
+    </style>
+    <style name="myProgressBarStyleSmall">
+
+
+        　　
+        <item name="android:indeterminateDrawable">@drawable/progress_bar</item>
+
+
+        　　
+        <item name="android:minWidth">32dip</item>
+
+
+        　　
+        <item name="android:maxWidth">32dip</item>
+
+
+        　　
+        <item name="android:minHeight">32dip</item>
+
+
+        　　
+        <item name="android:maxHeight">32dip</item>
+    </style>
+</resources>

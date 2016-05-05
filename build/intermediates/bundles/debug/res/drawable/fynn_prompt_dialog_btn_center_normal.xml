@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <shape>
+        <solid android:color="#33D3D3D3" /><!--填充色-->
+    </shape>
+  </item>
+</layer-list><!-- From: file:/D:/work/workspace/PromptDialog/res/drawable/fynn_prompt_dialog_btn_center_normal.xml -->
